@@ -1,7 +1,7 @@
 # DEBIX Model A Industrial Single Board Computer
 
 <p align="center">
-<img  width=60% height=auto src="./DEBIX_Model_A_1.png" alt="DEBIX Model A(1)">
+<img  width=60% height=auto src="./Media_Assets/DEBIX_Model_A_1.png" alt="DEBIX Model A(1)">
 </p>
 
 ## Overview
@@ -20,7 +20,7 @@ DEBIX Model A is an industrial-grade single board computer to bring you faster s
   It includes Android 11/ Yocto-L6.6.36/ Ubuntu 22.04/ Debian 12/ Windows 10 IoT Enterprise/ OpenWRT/ FreeRTOS operating system and basic software for fast and direct applications.
 
 <p align="center">
-<img  width=80% height=auto src="./DEBIX_Model_A_2.png" alt="DEBIX Model A(2)">
+<img  width=80% height=auto src="./Media_Assets/DEBIX_Model_A_2.png" alt="DEBIX Model A(2)">
 </p>
 
 ## Specification
@@ -57,12 +57,12 @@ DEBIX Model A is an industrial-grade single board computer to bring you faster s
 | DEBIX Model A Lite | NXP i.MX 8M Plus Quad Lite | N/A | N/A | N/A | N/A |
 
 ## Certificates:
-<img src="./Certificates.png" alt="Certificates" width=70% height=auto>
+<img src="./Media_Assets/Certificates/Certificates.png" alt="Certificates" width=70% height=auto>
 
 ## I/O Interfaces:
 <p align="center">
-<img src="./Interface_1.png" alt="Interface(1)" width=90% height=auto>
-<img src="./Interface_2.png" alt="Interface(2)" width=90% height=auto>
+<img src="./Media_Assets/Interfaces/Interface_1.png" alt="Interface(1)" width=90% height=auto>
+<img src="./Media_Assets/Interfaces/Interface_2.png" alt="Interface(2)" width=90% height=auto>
 </p>
 
 ## Ordering Codes
@@ -125,7 +125,7 @@ professional.
 
 ## Contact Us
 - **Headquarters**: DEBIX Technology Inc., 8345 Gold River Ct., Las Vegas, NV 89113, USA  
-- **Factory**: 5-6/F., East Zone, Shunheda A2 Building, Liqxiandong Industrial Park, XiLi, Nanshan Dist., Shenzhen, China  <img src="../../../Discord_QRcode.png" alt="Discord(QRcode)" width=15% height=auto align="right">
+- **Factory**: 5-6/F., East Zone, Shunheda A2 Building, Liqxiandong Industrial Park, XiLi, Nanshan Dist., Shenzhen, China  <img src="./Media_Assets/Discord/Discord_QRcode.png" alt="Discord(QRcode)" width=15% height=auto align="right">
 - **Email**: info@debix.io  
 - **Website**: [www.debix.io](https://www.debix.io)  
 - **Community**: [Discord](https://discord.com/invite/adaHHaDkH2)
