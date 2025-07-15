@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Polyhex 24PIN-Pai 15PIN 20250515.PrjPcb]
+   Generated File[Polyhex 24PIN-Pai 15PIN 0522.TXT]
+   Generated File[Polyhex 24PIN-Pai 15PIN 0522.LDP]
+   Generated File[Polyhex 24PIN-Pai 15PIN 0522.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At ионГ 10:38:06 On 15/7/2025

@@ -1,0 +1,5 @@
+DRC Rules Export File for PCB: D:\AD\202505\Polyhex 24PIN-Pai 15PIN 20250515\Polyhex 24PIN-Pai 15PIN 0522.PcbDoc
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=3.94
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=5.91
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
